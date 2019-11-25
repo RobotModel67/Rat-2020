@@ -14,7 +14,7 @@
 ## 2. Core {RobotModel67}
 
 ### AWS-99
-* OS and Servervices
+* OS and Services
 * Wordpress / templates
 * Web site prototype
 * eComerce
@@ -29,7 +29,11 @@
 ###  Embbeded resilient software
 * Languages
 * Devices
-  * NodeMCU (Kit)
+  https://www.sigmaelectronica.net/producto/esp-32/  
+  https://www.sigmaelectronica.net/producto/nodemcu-v3/  
+  https://electronilab.co/tienda/raspberry-pi-4-modelo-b-4gb-ram/  
+  https://www.sigmaelectronica.net/producto/a000073/  
+  
 * Ingles
  
 ### Core
