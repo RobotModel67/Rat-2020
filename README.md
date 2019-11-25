@@ -27,8 +27,10 @@
 ## 3. EU
 
 ###  Embbeded resilient software
-* Languages
-* Devices
+* Languages  
+  https://www.hackster.io/contests/adacore2  
+  
+* Devices  
   https://www.sigmaelectronica.net/producto/esp-32/  
   https://www.sigmaelectronica.net/producto/nodemcu-v3/  
   https://electronilab.co/tienda/raspberry-pi-4-modelo-b-4gb-ram/  
