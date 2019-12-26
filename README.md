@@ -21,7 +21,7 @@
   * Mobile
 
 ## 4. RATCHET
-  * GYM 5
+  * GYM to 85
   * BBC English
   * Tooth
   * Nose
@@ -69,18 +69,20 @@
   * CI/CD
 
 ### TV
-Los Sopranos
-Mr Robot
-Game of Thrones
-Mad Men
-The Wire
-Band of Brothers
+* Los Sopranos
+* Mr Robot
+* Game of Thrones
+* Mad Men
+* The Wire
+* Band of Brothers  
 
-The Killing
-Killing Eve
-True Detective (HBO)
-Braquo
-Killing Eve
+* The Killing
+* Killing Eve
+* True Detective (HBO)
+* Braquo
+* Killing Eve
 
-30 Rock
-The Office
+* 30 Rock
+* The Office
+
+* Cosmos I II
