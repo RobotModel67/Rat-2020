@@ -1,32 +1,40 @@
-# Rat-2020
-2020 Year of the Rat - Chinese Zodiac 
+# 2020 The Year of the Rat
 
-## 1. Local {4.5}
+## 1. TITULO
+  * Matricular
+  * Projecto / Diplomado
+  * Grado
+  * Tarjeta Profesional
 
-### Finandina
-* Operaciones. Terminar y liberar (2019-11-25)
-* Refactory servicios
+## 2. CORE
+  * Certificación AGILES / SCRUM
+  * Liderazgo
+  * CI/CD
+  * Go4X
 
-### Scotiabank Colpatria
-* Angular
-* Spring / JEE
+## 3. JackFeautured! 
+  * AWS Platform
+  * Background Servers
+  * Applications
+  * Business Web Site
+  * eComerce
+  * Mobile
 
-## 2. Core {RobotModel67}
+## 4. RATCHET
+  * GYM 5
+  * BBC English
+  * Tooth
+  * Nose
+  * Pilogan
+  * Amoblar Apto.
+  * Pasaporte
+  * The Real Rover
 
-### AWS-99
-* OS and Services
-* Wordpress / templates
-* Web site prototype
-* eComerce
 
-### AWS-JackFeatured!
 
-* Application Servers
-* Comercial Web
 
-## 3. EU
+## 5. Embbeded resilient software
 
-###  Embbeded resilient software
 * Languages  
   https://www.hackster.io/contests/adacore2  
   
@@ -36,16 +44,12 @@
   https://electronilab.co/tienda/raspberry-pi-4-modelo-b-4gb-ram/  
   https://www.sigmaelectronica.net/producto/a000073/  
   
-* Ingles
- 
-### Core
 * Maths
   * Linear Algebra
   * Calculus
   * Vectorial Calculus
   * Diferential Equations
-
- 
+  
 ### Tecnologies
 * Server
   * Node/Hapi
@@ -63,5 +67,20 @@
 * Core
   * Software engineering
   * CI/CD
-  
 
+### TV
+Los Sopranos
+Mr Robot
+Game of Thrones
+Mad Men
+The Wire
+Band of Brothers
+
+The Killing
+Killing Eve
+True Detective (HBO)
+Braquo
+Killing Eve
+
+30 Rock
+The Office
