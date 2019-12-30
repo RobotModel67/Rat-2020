@@ -1,8 +1,9 @@
 # 2020 The Year of the Rat
 
 ## 1. TITULO
-  * Matricular
-  * Projecto / Diplomado
+  * Matricular Diplomado  
+  Voy a matricular lo que sea que haya de DIPLOMADO, hablar con JESS para que me de la tarde y viajar y regresar en la mañana.
+  * Revisar materias completas
   * Grado
   * Tarjeta Profesional
 
@@ -29,8 +30,6 @@
   * Amoblar Apto.
   * Pasaporte
   * The Real Rover
-
-
 
 
 ## 5. Embbeded resilient software
