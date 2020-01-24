@@ -2,7 +2,9 @@
 * Tel. 6652828, Ingenieria: Vanessa (3101)  
 * Solicitud Financiera http://www.uniajc.edu.co/documentos/2018/solicitud_financiera.xls  
 * MARTES: Liliana Polania (4104), averiguar REINGRESO  
-
+* RERENCIA
+  * Directorio: http://www.uniajc.edu.co/wp-content/uploads/2019/01/Directorio-y-extensiones-funcionarios.pdf  
+  
 # 2020-01-22
 * https://www.futureengineers.org/nametherover  
 
