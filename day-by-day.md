@@ -4,7 +4,10 @@
 * MARTES: Liliana Polania (4104), averiguar REINGRESO  
 * RERENCIA
   * Directorio: http://www.uniajc.edu.co/wp-content/uploads/2019/01/Directorio-y-extensiones-funcionarios.pdf  
-  
+
+# 2020-02-10
+* Amazon EC2 Master Class (with Auto Scaling and Load Balancer)
+
 # 2020-01-22
 * https://www.futureengineers.org/nametherover  
 
