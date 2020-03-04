@@ -29,7 +29,9 @@ Todas las cosas que hay que sacar adelante este año...
     * VISION
   * IoT
     * Raspberry
-    *ESP32
+    * ESP32
+  * Featured!
+    * Haskell, Ada, Eiffel, Elm
   
 ## JackFeatured!
   * AWS
