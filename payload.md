@@ -20,7 +20,7 @@ Todas las cosas que hay que sacar adelante este año...
     * Vue
     * AppRun
     
-  * ?
+  * Apps
     * Bootstrap
     * Materialize
     
@@ -28,9 +28,12 @@ Todas las cosas que hay que sacar adelante este año...
     * Flutter
     * Ionic
     * Native
+    * Firebase
     * **Google Play**
     * PWA
     * Realtime Apps
+      * https://carlosazaustre.es/websockets-como-utilizar-socket-io-en-tu-aplicacion-web/
+      * https://www.baeldung.com/java-websockets
     
   * CLOUD
     * AWS
@@ -45,6 +48,10 @@ Todas las cosas que hay que sacar adelante este año...
   * IoT
     * Raspberry
     * ESP32
+    * Embedded
+    * ROS
+    * Real-time
+    * Parallel
     
   * Featured!
     * Haskell, Ada, Eiffel, Elm
